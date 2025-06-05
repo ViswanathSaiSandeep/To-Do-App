@@ -114,9 +114,10 @@ ul li span:hover{
         justify-content: space-between;
     }
     input{
-        flex: 0;
+        flex: 1;
     }
     button{
         padding: 10px 15px;
+        margin-right: 15px;
     }
 }
